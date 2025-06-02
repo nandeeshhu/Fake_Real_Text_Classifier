@@ -1,7 +1,3 @@
-Here is a revised version of the `README.md` file according to your instructions:
-
----
-
 # 🧠 DeepNLP Classifier for Authenticity Detection in AI-Generated Text using DeBERTaV3 + KerasCore + KerasNLP
 
 This project implements a text classification model aimed at distinguishing between AI-generated and human-written science exam text. The model is built using the DeBERTaV3 architecture, leveraging KerasCore and KerasNLP libraries, with TPU acceleration for efficient training.
